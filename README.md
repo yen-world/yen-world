@@ -52,7 +52,7 @@
   <br>
   <br>
 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyen-world&count_bg=%233B3B3B&title_bg=%23D95E75&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyen-world&count_bg=%233B3B3B&title_bg=%23D95E75&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 </div>
 
 
